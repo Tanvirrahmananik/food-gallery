@@ -43,10 +43,18 @@ body{
     height: 500px;
     margin: .3cm .3cm .3cm;
     background: rgb(235, 236, 240) ;
-    box-shadow: rgb(48, 45, 45) 5px 5px 5px;
+    box-shadow: rgb(66, 38, 38) 5px 5px 5px;
     border-radius: 3%;
     border :.1cm;
     padding-left: 5px;
+}
+.textedit{
+    display: flex;
+    background-color: cornsilk;
+    margin: 2cm 1cm 1cm;
+    text-align: left;
+    box-shadow: rgb(66, 38, 38) 5px 5px 5px 5px;
+    text-indent: 5cm;
 }
 .footer{
     text-align: center;
